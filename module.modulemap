@@ -1,4 +1,4 @@
-module mysqlclient {
+module libmongoc {
     header "/usr/local/include/libmongoc-1.0/mongoc.h"
     link "mongoc-1.0"
     export *
